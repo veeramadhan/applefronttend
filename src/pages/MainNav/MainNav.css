@@ -1,0 +1,4 @@
+.first_link::after {
+    content: "|";
+    padding-left: 10px;
+}
