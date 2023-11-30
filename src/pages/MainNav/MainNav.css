@@ -1,4 +1,39 @@
 .first_link::after {
     content: "|";
-    padding-left: 10px;
+    padding-right: 20px;
+    padding-left: 20px;
+}
+/* MainNav.css */
+
+.NavLink{
+    font-size: 20px;
+}
+
+.navbar-nav  a{
+    text-decoration: none; /* Remove underline */
+    color: inherit; /* Inherit the color from the parent */
+    font-size: 23px;
+  }
+  
+
+.form-border{
+        width: 70%;
+        height: auto;
+        border-radius: 10px;
+        margin-left: 3rem;
+}
+.img-fluid {
+    width: 100%;
+    height: 116%;
+    border-radius: 20px;
+}
+
+
+.title_text{
+    margin-left: 7rem;
+}
+
+.content_login{
+    padding-left:7rem;
+    padding-top: 4rem;
 }
